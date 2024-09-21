@@ -17,3 +17,7 @@ In this fast-paced strategy game, players compete to build their property empire
 Whether you're a seasoned tycoon or a rookie investor, "Won't Bankrupt" offers a challenging and educational experience that will test your financial acumen and strategic thinking. Can you build your real estate empire without going bust? There's only one way to find out!
 
 _Note: This game is being developed as part of a diploma project and is not affiliated with any existing board game brands._
+
+Thanks:
+* [freepik](www.freepik.com) for design
+* Santiago Orozco for [the font](https://github.com/googlefonts/josefinsans) used in banner and OFL license <3
