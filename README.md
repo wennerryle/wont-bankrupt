@@ -19,5 +19,5 @@ Whether you're a seasoned tycoon or a rookie investor, "Won't Bankrupt" offers a
 _Note: This game is being developed as part of a diploma project and is not affiliated with any existing board game brands._
 
 Thanks:
-* [freepik](www.freepik.com) for design
+* [freepik](https://www.freepik.com) for design
 * Santiago Orozco for [the font](https://github.com/googlefonts/josefinsans) used in banner and OFL license <3
